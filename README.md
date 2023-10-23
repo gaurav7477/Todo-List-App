@@ -1,4 +1,18 @@
 # Todo-List-App
+This is a simple Todo List app that allows you to add, edit, and delete to-do items.
+
+**Installation**
+To install the app, clone the repository and run the following command:
+
+npm install
+
+**Usage**
+
+To start the app, run the following command:
+npm run dev
+
+The app will be running on port 3000. You can access it in your web browser at http://localhost:5137.
+
 
 # How my Todo List app works
 
